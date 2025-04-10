@@ -1,6 +1,4 @@
-# DASQE
 
-This is the implementation of the  "A Collaborative Self-supervised Domain Adaptation for Low-Quality Medical Image Enhancement". 
 
 ## Data preparation
 
